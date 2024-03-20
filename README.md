@@ -3,7 +3,7 @@
 
 **Case 1] For Installation of k8s  on Ubuntu Version-- 22.04.4 LTS   you can run Script .**
             
-          Step 1 :
+          Step 1 : git clone https://github.com/ankitdchandak/Kubernetes.git
  
           Step 2 : sh script.sh
             (It will run and install complete Kubernetes Cluster the steps which are given below ) 
